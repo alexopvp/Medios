@@ -6,3 +6,4 @@
 5. [Paint](https://alexopvp.github.io/Medios/sketch_04/) / [Codigo](https://github.com/alexopvp/Medios/blob/master/sketch_04/sketch_04.js)
 6. [Snake](https://alexopvp.github.io/Medios/sketch_05/) / [Codigo](https://github.com/alexopvp/Medios/blob/master/sketch_05/sketch_05.js)
 7. [Reloj](https://alexopvp.github.io/Medios/sketch_06/) / [Codigo](https://github.com/alexopvp/Medios/blob/master/sketch_06/sketch_06.js)
+8. [DJ](https://alexopvp.github.io/Medios/sketch_07/) / [Codigo](https://github.com/alexopvp/Medios/blob/master/sketch_07/sketch_07.js)
