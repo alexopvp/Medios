@@ -163,7 +163,7 @@ function vino(){
   this.tam = windowWidth / 10;
   
   this.x = width - 80;
-  this.y = height/2;
+  this.y = height/3;
   
   this.mostrar = function(){
     fill (176, 131, 86);
